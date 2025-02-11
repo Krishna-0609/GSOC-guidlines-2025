@@ -1,4 +1,4 @@
-# Contributing to [Your Organization Name]  
+# Contributing to [VRACKS TECHNOLOGY]  
 
 Thank you for your interest in contributing to our project! Follow these steps to get started:  
 
