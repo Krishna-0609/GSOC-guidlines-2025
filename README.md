@@ -35,7 +35,7 @@ We’re excited to collaborate with contributors to enhance AI accessibility and
 
 ## 📌 How to Apply  
 1. Read our **[CONTRIBUTING.md](CONTRIBUTING.md)** file.  
-2. Join our **[Community (Discord)]((https://discord.gg/THH49ctK))**.  
+2. Join our **[Community (Discord)](https://discord.gg/THH49ctK)**.  
 3. Pick a project and discuss it with mentors.  
 4. Submit your proposal via the GSoC application process.  
 
